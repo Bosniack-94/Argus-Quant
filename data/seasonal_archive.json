@@ -1,0 +1,468 @@
+{
+    "weeks": [
+        {
+            "week_id": "2026-W15",
+            "date_range": "Periodo Auditor\u00eda",
+            "initial_balance": 23007.98,
+            "ending_balance": 24848.62,
+            "verdazos": 82.5,
+            "erradas": 17.5,
+            "roi": 8.0,
+            "profit": 1840.64,
+            "matches": [
+                {
+                    "teams": "Atalanta vs Dortmund",
+                    "sport": "\u26bd F\u00fatbol",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Over 2.5 Goles",
+                    "std_status": "WIN",
+                    "elite_pick": "Mas de 9.5 C\u00f3rners",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Atalanta promedia 6.2 c\u00f3rners por partido en casa."
+                },
+                {
+                    "teams": "Lakers vs Warriors",
+                    "sport": "\ud83c\udfc0 Basket",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Over 225.5",
+                    "std_status": "WIN",
+                    "elite_pick": "H\u00e1ndicap -3.5 Lakers",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Dominio en la pintura de Anthony Davis."
+                },
+                {
+                    "teams": "Alcaraz vs Sinner",
+                    "sport": "\ud83c\udfbe Tenis",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Sinner Ganador",
+                    "std_status": "WIN",
+                    "elite_pick": "Over 22.5 Games",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Partido largo a 3 sets garantizado."
+                }
+            ],
+            "champion_sport": "\u26bd F\u00fatbol Champions"
+        },
+        {
+            "week_id": "2026-W16",
+            "date_range": "Periodo Auditor\u00eda",
+            "initial_balance": 24848.62,
+            "ending_balance": 27333.48,
+            "verdazos": 82.5,
+            "erradas": 17.5,
+            "roi": 10.0,
+            "profit": 2484.86,
+            "matches": [
+                {
+                    "teams": "Juventus vs Galatasaray",
+                    "sport": "\u26bd F\u00fatbol",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Gana Juventus",
+                    "std_status": "WIN",
+                    "elite_pick": "Menos de 2.5 Goles",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Juventus bajo Allegri prioriza el orden defensivo en UCL."
+                },
+                {
+                    "teams": "Lakers vs Warriors",
+                    "sport": "\ud83c\udfc0 Basket",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Over 225.5",
+                    "std_status": "WIN",
+                    "elite_pick": "H\u00e1ndicap -3.5 Lakers",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Dominio en la pintura de Anthony Davis."
+                },
+                {
+                    "teams": "Alcaraz vs Sinner",
+                    "sport": "\ud83c\udfbe Tenis",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Sinner Ganador",
+                    "std_status": "WIN",
+                    "elite_pick": "Over 22.5 Games",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Partido largo a 3 sets garantizado."
+                }
+            ],
+            "champion_sport": "\ud83c\udfc0 NBA Elite"
+        },
+        {
+            "week_id": "2026-W17",
+            "date_range": "Periodo Auditor\u00eda",
+            "initial_balance": 27333.48,
+            "ending_balance": 30613.5,
+            "verdazos": 82.5,
+            "erradas": 17.5,
+            "roi": 12.0,
+            "profit": 3280.02,
+            "matches": [
+                {
+                    "teams": "PSG vs Monaco",
+                    "sport": "\u26bd F\u00fatbol",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Gana PSG",
+                    "std_status": "LOSS",
+                    "elite_pick": "M\u00e1s de 4.5 Tarjetas",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Derbi franc\u00e9s hist\u00f3rico con alta tensi\u00f3n y faltas t\u00e1cticas."
+                },
+                {
+                    "teams": "Lakers vs Warriors",
+                    "sport": "\ud83c\udfc0 Basket",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Over 225.5",
+                    "std_status": "WIN",
+                    "elite_pick": "H\u00e1ndicap -3.5 Lakers",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Dominio en la pintura de Anthony Davis."
+                },
+                {
+                    "teams": "Alcaraz vs Sinner",
+                    "sport": "\ud83c\udfbe Tenis",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Sinner Ganador",
+                    "std_status": "WIN",
+                    "elite_pick": "Over 22.5 Games",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Partido largo a 3 sets garantizado."
+                }
+            ],
+            "champion_sport": "\u26bd F\u00fatbol Champions"
+        },
+        {
+            "week_id": "2026-W18",
+            "date_range": "Periodo Auditor\u00eda",
+            "initial_balance": 30613.5,
+            "ending_balance": 35817.795,
+            "verdazos": 6,
+            "erradas": 2,
+            "roi": 17.000000000000007,
+            "profit": 5204.295000000002,
+            "matches": [
+                {
+                    "teams": "Real Madrid vs Benfica",
+                    "sport": "\u26bd F\u00fatbol",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Gana Real Madrid",
+                    "std_status": "WIN",
+                    "elite_pick": "H\u00e1ndicap -1 (Madrid)",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Poder ofensivo del Madrid en el Bernab\u00e9u es incontrolable."
+                },
+                {
+                    "teams": "Lakers vs Warriors",
+                    "sport": "\ud83c\udfc0 Basket",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Over 225.5",
+                    "std_status": "WIN",
+                    "elite_pick": "H\u00e1ndicap -3.5 Lakers",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Dominio en la pintura de Anthony Davis."
+                },
+                {
+                    "teams": "Alcaraz vs Sinner",
+                    "sport": "\ud83c\udfbe Tenis",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Sinner Ganador",
+                    "std_status": "WIN",
+                    "elite_pick": "Over 22.5 Games",
+                    "elite_status": "WIN",
+                    "status": "DUAL_REPORT",
+                    "why": "Partido largo a 3 sets garantizado."
+                },
+                {
+                    "teams": "Atalanta vs Dortmund",
+                    "sport": "\u26bd F\u00fatbol",
+                    "market": "Dual: \ud83d\udcb5/\ud83d\udc8e",
+                    "std_pick": "Gana Dortmund",
+                    "std_status": "PENDIENTE",
+                    "elite_pick": "H\u00e1ndicap -1",
+                    "elite_status": "PENDIENTE",
+                    "status": "DUAL_REPORT",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Atalanta vs Dortmund",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Over 2.5 Goles",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Atalanta vs Dortmund",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "M\u00e1s de 9.5 C\u00f3rners",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Juventus vs Galatasaray",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Juventus",
+                    "status": "LOSS",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Juventus vs Galatasaray",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "Menos de 2.5 Goles",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "PSG vs Monaco",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana PSG",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "PSG vs Monaco",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "M\u00e1s de 4.5 Tarjetas",
+                    "status": "LOSS",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Real Madrid vs Benfica",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Real Madrid",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Real Madrid vs Benfica",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1 (Madrid)",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Le\u00f3n vs Santos",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Le\u00f3n",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Le\u00f3n vs Santos",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Necaxa vs Toluca",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Toluca",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Necaxa vs Toluca",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1 (Toluca)",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Cruz Azul vs Chivas",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Over 2.5 Goles",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Cruz Azul vs Chivas",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "M\u00e1s de 4.5 Tarjetas",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Tijuana vs Mazatl\u00e1n",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Tijuana",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Tijuana vs Mazatl\u00e1n",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1 (Tijuana)",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Pumas vs Monterrey",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Over 2.5 Goles",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Pumas vs Monterrey",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -0.5 (Monterrey)",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Quer\u00e9taro vs Ju\u00e1rez",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Quer\u00e9taro",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Quer\u00e9taro vs Ju\u00e1rez",
+                    "sport": "\u26bd F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "Empate No Acci\u00f3n (QRO)",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                }
+            ],
+            "champion_sport": "\ud83c\udfc0 NBA Elite"
+        },
+        {
+            "week_id": "2026-W11",
+            "date_range": "2026-03-10",
+            "initial_balance": 35817.795,
+            "ending_balance": 35817.795,
+            "verdazos": 0,
+            "erradas": 0,
+            "roi": 0.0,
+            "profit": 0.0,
+            "matches": [
+                {
+                    "teams": "Real Madrid vs Milan",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Madrid",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Arsenal vs Porto",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1 Arsenal",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Arsenal vs Porto",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Arsenal",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Bayern vs Chelsea (Test2)",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Bayern",
+                    "status": "PENDIENTE",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Galatasaray vs Liverpool",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "Gana Local",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Galatasaray vs Liverpool",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "Gana local",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Barcelona vs Newcastle",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "over. 9.5",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Barcelona vs Newcastle",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "Gana Visita",
+                    "status": "LOSS",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Bayern Munich vs Atalanta",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "H\u00e1ndicap -1 Local",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Bayern Munich vs Atalanta",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1 Local",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Atl\u00e9tico Madrid vs Tottenham",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udcb5 Standard",
+                    "pick": "H\u00e1ndicap -1 Local",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                },
+                {
+                    "teams": "Atl\u00e9tico Madrid vs Tottenham",
+                    "sport": "F\u00fatbol",
+                    "tier": "\ud83d\udc8e Elite VIP",
+                    "pick": "H\u00e1ndicap -1 Local",
+                    "status": "WIN",
+                    "why": "Sincronizado desde Live Analysis"
+                }
+            ],
+            "champion_sport": "Pendiente"
+        }
+    ]
+}
